@@ -1,7 +1,7 @@
 ## Programming Assignment 2
 ## Submitted by Sachin Garg
 ## Version 1.1
-## Version Date 22-Sep-2015
+## Version Date 22-Sep-2015.
 
 ## The following function creates a special matrix, and is used to
 ## set the value of the matrix, get the value of the matrix
